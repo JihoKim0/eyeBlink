@@ -4,8 +4,12 @@ eye blink recognition with openCV &amp; dlib<br>
 딥러닝 모델 정확도 그래프<br>
 https://mangastorytelling.tistory.com/entry/%EB%B9%B5%ED%98%95%EC%9D%98-%EA%B0%9C%EB%B0%9C%EB%8F%84%EC%83%81%EA%B5%AD-%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%9C%BC%EB%A1%9C-%EB%88%88-%EA%B9%9C%EB%B9%A1%EC%9E%84-%EA%B0%90%EC%A7%80%EA%B8%B0-%EB%A7%8C%EB%93%A4%EA%B8%B0-Python-Deep-Learning<br>
 7:30~<br>
-confusion matrix-in[8]<br>
 https://github.com/kairess/eye_blink_detector/blob/master/train.ipynb<br><br>
+학습한 모델의 정확도를 확인해 보자. 모델의 accuracy를 출력하고 heatmap을 사용하여 그래프를 나타낸다.
+confusion matrix-in[8]<br>
+위의 결과와 같이 놀라운 정확도를 가진 모델을 생성한 것을 확인할 수 있다.
+
+
 
 인식 결과를 히스토그램으로 나타내보면 다음과 같다.<br>
 사진~(Distribution of Prediction-in[9])<br>
